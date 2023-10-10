@@ -7,16 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="elibrary" />
+        <module name="test5" />
         <module name="EmployeePensionsplanningSystem" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="elibrary" target="17" />
-      <module name="EmployeePensionsplanningSystem" target="18" />
+      <module name="demo" target="17" />
+      <module name="test" target="18" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
       <module name="elibrary" options="-parameters" />
     </option>
   </component>

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/LabSolutions/Lab1b/taskB/EmployeePensionsplanningSystem/pom.xml" />
         <option value="$PROJECT_DIR$/LabSolutions/Lab3/1a/elibrary/pom.xml" />
+        <option value="$PROJECT_DIR$/LabSolutions/Lab5/test5/pom.xml" />
       </list>
     </option>
   </component>
