@@ -21,7 +21,9 @@ public class Patient {
 
     @OneToMany(mappedBy = "patient")
     private List<Appointment> appointments;
-
+    public Patient() {
+        // Default constructor with no arguments
+    }
     public Patient(String firstName, String lastName, String phone, String email, Date dob) {
         this.firstName = firstName;
         this.lastName = lastName;

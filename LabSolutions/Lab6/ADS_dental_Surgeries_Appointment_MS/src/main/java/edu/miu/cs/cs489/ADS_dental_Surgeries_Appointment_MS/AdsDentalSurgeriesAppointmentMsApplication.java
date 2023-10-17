@@ -81,11 +81,11 @@ public class AdsDentalSurgeriesAppointmentMsApplication implements CommandLineRu
 		patientToUpdate.setLastName("UpdatedLastName");
 		patientService.savePatient(patientToUpdate); // Save the updated patient information
 
-		// Delete a patient
-		patientService.deletePatient(1L);
-
-		// Delete an appointment
-		appointmentService.deleteAppointment(1L);
+//		// Delete a patient
+//		patientService.deletePatient(1L);
+//
+//		// Delete an appointment
+//		appointmentService.deleteAppointment(1L);
 	}
 
 
