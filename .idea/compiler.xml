@@ -11,6 +11,7 @@
         <module name="EmployeePensionsplanningSystem" />
         <module name="ADS_dental_Surgeries_Appointment_MS" />
         <module name="ADS_dental_Surgeries_Appointment_MS (1)" />
+        <module name="ADS_dental_Surgeries_Appointment_MS (2)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,6 +26,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ADS_dental_Surgeries_Appointment_MS" options="-parameters" />
       <module name="ADS_dental_Surgeries_Appointment_MS (1)" options="-parameters" />
+      <module name="ADS_dental_Surgeries_Appointment_MS (2)" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="elibrary" options="-parameters" />
       <module name="mySqlProject" options="-parameters" />
