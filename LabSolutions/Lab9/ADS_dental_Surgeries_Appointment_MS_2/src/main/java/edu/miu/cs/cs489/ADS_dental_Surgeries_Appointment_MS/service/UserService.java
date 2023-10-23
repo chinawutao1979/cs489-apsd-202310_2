@@ -5,7 +5,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 
 public interface UserService extends UserDetailsService {
 
-    void authenticate(String username, String password) throws Exception;
+//    void authenticate(String username, String password) throws Exception;
     void register(User user);
 }
 
