@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="elibrary" />
+        <module name="helloword" />
         <module name="EmployeePensionsplanningSystem" />
         <module name="ADS_dental_Surgeries_Appointment_MS" />
         <module name="ADS_dental_Surgeries_Appointment_MS (1)" />
