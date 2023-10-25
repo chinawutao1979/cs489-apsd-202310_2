@@ -9,11 +9,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="EmployeePensionsplanningSystem" />
         <module name="ADS_dental_Surgeries_Appointment_MS" />
+        <module name="ArrayReversorApp" />
         <module name="ADS_dental_Surgeries_Appointment_MS (1)" />
+        <module name="ArrayFlattenerApp" />
         <module name="elibrary" />
         <module name="helloword" />
         <module name="springboot_docker" />
         <module name="ADS_dental_Surgeries_Appointment_MS (2)" />
+        <module name="ads-dental-appointments-web-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +32,7 @@
       <module name="ADS_dental_Surgeries_Appointment_MS" options="-parameters" />
       <module name="ADS_dental_Surgeries_Appointment_MS (1)" options="-parameters" />
       <module name="ADS_dental_Surgeries_Appointment_MS (2)" options="-parameters" />
+      <module name="ads-dental-appointments-web-api" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="elibrary" options="-parameters" />
       <module name="mySqlProject" options="-parameters" />
